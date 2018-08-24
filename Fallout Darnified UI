@@ -1,0 +1,15 @@
+[Fonts]
+;sFontFile_1=Textures\Fonts\Glow_Monofonto_Large.fnt
+sFontFile_1=Textures\Fonts\DarN_FranKleinBold_14.fnt
+;sFontFile_2=Textures\Fonts\Monofonto_Large.fnt
+sFontFile_2=Textures\Fonts\DarN_FranKleinBold_16.fnt
+sFontFile_3=Textures\Fonts\Glow_Monofonto_Medium.fnt
+;sFontFile_4=Textures\Fonts\Monofonto_VeryLarge02_Dialogs2.fnt
+sFontFile_4=Textures\Fonts\DarN_Sui_Generis_Otl_10.fnt
+sFontFile_5=Textures\Fonts\Fixedsys_Comp_uniform_width.fnt
+;sFontFile_6=Textures\Fonts\Glow_Monofonto_VL_dialogs.fnt
+sFontFile_6=Textures\Fonts\DarN_Sui_Generis_Otl_13.fnt
+;sFontFile_7=Textures\Fonts\Baked-in_Monofonto_Large.fnt
+sFontFile_7=Textures\Fonts\DarN_Libel_Suit_Otl_24.fnt
+sFontFile_8=Textures\Fonts\Glow_Futura_Caps_Large.fnt
+sFontFile_9=Textures\Fonts\NVFont_Test.fnt
